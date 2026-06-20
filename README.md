@@ -28,4 +28,4 @@ quiz-app-cpp/
 └── README.md
 
 ## 👩‍💻 Author
-Your Name — GitHub: @yourusername
+Noorfatima-star
